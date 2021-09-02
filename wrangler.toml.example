@@ -1,0 +1,10 @@
+name = "checkie"
+type = "webpack"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+kv_namespaces = [ 
+  { binding = "CACHE", id = "2b9b1fc357b64586906fbb6f2781cdff", preview_id = "2b9b1fc357b64586906fbb6f2781cdff" }
+]
